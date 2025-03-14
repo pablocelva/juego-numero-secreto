@@ -3,5 +3,5 @@
 - Creado con HTML, CSS y JavaScript para curso de Lógica de Programación de Alura Latam.
 </p>
 <p>
-- Estado del proyecto: en producción.
+- Estado del proyecto: en producción. Link: https://pablocelva.github.io/juego-numero-secreto/
 </p>
